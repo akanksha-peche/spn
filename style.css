@@ -104,6 +104,11 @@ body {
     margin: 20px 0;
     font-style: italic;
   }
+
+  body  {
+    background-image: url("https://cdn.pixabay.com/photo/2016/12/11/01/03/texture-1898539_1280.jpg");
+    background-color: #cccccc;
+  }
   
   footer {
     background: lightseagreen;
@@ -129,3 +134,4 @@ body {
         max-width: 100%;
     }
   }
+
